@@ -1,0 +1,1 @@
+window.CMC_SUPABASE_CONFIG=Object.freeze({"route":"/api/state","supabaseUrl":"https://rhjyiokjttvhokvzdcaa.supabase.co","table":"ar131_dashboard_snapshot","secretEnvironmentVariable":"SUPABASE_SECRET_KEY","secretEmbedded":false});
